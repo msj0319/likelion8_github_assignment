@@ -6,6 +6,6 @@ int sum(int a, int b) {
 }
 
 int main() {
-	printf("두 수의 합은 = %f\n", sum(1, 1));
+	printf("두 수의 합은 = %d\n", sum(4, 1));
 	return 0;
 }
